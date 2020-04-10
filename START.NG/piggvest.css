@@ -84,7 +84,7 @@ body{
 p{
     font: #4a5568;
     text-align: center;
-    font-size: .875rem;
+    font-size: .780rem;
     font-family: Karla,sans-serif;
     box-sizing: inherit;
     line-height: 1.5;
@@ -92,7 +92,7 @@ p{
 }
 
 h1{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     color: #083e9e;
     text-align: center;
     font-weight: 700;
