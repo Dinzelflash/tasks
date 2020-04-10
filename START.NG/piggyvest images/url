@@ -1,0 +1,1118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="canonical" href="https://www.piggyvest.com/"/>
+<link href="https://www.piggyvest.com//images/piggybank-NEW-Alone-80-min.png" rel="shortcut icon"/>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+		<meta name="theme-color" content="#0C567B" />
+		<meta http-equiv="X-UA-Compatible">
+		<meta name="fragment" content="!">
+		<meta property="fb:app_id" content="210171429181170" />
+		<meta property="og:title" content="PiggyVest" />
+		<meta property="og:url" content="https://www.piggyvest.com/" />
+		<meta property="og:image" content="https://www.piggyvest.com//images/piggybank-NEW-Alone-400-min.png" />
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  		<meta name="referrer" content="always">
+		<meta http-equiv="Cache-control" content="public" max-age="864000">
+  		<meta charset="utf-8">
+		<meta name="robots" content="index,follow" />
+		<meta name="description" content="PiggyVest is a very secure online savings platform that makes saving possible by combining discipline plus flexibility to make you grow your savings."/><meta name="keywords" content="piggyvest, piggybank, piggy bank, online savings platform, savings account, high interest rate, secure savings, piggybank nigeria, online piggy bank in africaonline savings platform, savings account, high interest rate, secure savings, piggybank nigeria, online piggy bank in africa, piggy bank in nigeria, piggy bank in africa"/>
+		<!-- [TwitterCard] -->
+		<meta property="twitter:account_id" content="2942442681" />
+		<meta name="twitter:data1" content="PiggyVest is a very secure online savings platform that makes saving possible by combining discipline plus flexibility to make you grow your savings.">
+		<meta name="twitter:label1" content="PiggyVest">
+        <meta name="twitter:card" content="summary_large_image">
+        <!--<meta name="twitter:card" content="product">-->
+		<meta name="twitter:site" content="@PiggybankNG">
+        <meta name="twitter:creator" content="@PiggybankNG">
+		<meta name="twitter:url" content="https://www.piggyvest.com/">
+        <meta name="twitter:title" content="PiggyVest">
+        <meta name="twitter:description" content="PiggyVest is a very secure online savings platform that makes saving possible by combining discipline plus flexibility to make you grow your savings.">
+		<meta name="twitter:image" content="https://www.piggyvest.com//images/piggybank-NEW-Alone-400-min.png">
+        <meta name="twitter:image:src" content="https://www.piggyvest.com//images/piggybank-NEW-Alone-400-min.png">
+		<meta name="twitter:domain" content="piggyvest.com">
+		<!-- [/TwitterCard] -->
+		<!-- <meta name="google-site-verification" content="7IDl4QD96t_J74UaPku9jtv43ROSwoPSAGQQ13YQSTA" /> -->
+		<meta name="google-site-verification" content="-vKAsS3NYbe8FKtLb9MuIPPwmUV5QZqt0mL680cW1ss" />
+			<meta charset="UTF-8">
+	<title>The Better Way To Save & Invest Online - PiggyVest</title>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+	<!--<link href="https://www.piggyvest.com/dashboard/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />-->
+	<link rel="stylesheet" href="https://www.piggyvest.com/sitestatics/css/main_v1.css"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+	<link href="https://fonts.googleapis.com/css?family=Varela+Round|Muli:200,400,800|Poppins|Lato|Playfair+Display" rel="stylesheet" />  
+	 
+	<link href="https://storage.googleapis.com/piggybankservice.appspot.com/dashboard/assets/css/customcss_18da919973.css" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Fredoka+One&display=swap" rel="stylesheet">
+
+	<style type="text/css">
+		/*************** U8 Font *****************/ 
+		@font-face {
+			font-family: "U8-Bold"; 
+			src: url("https://www.piggyvest.com/fonts/U8-Bold/U8-Bold.ttf") format("opentype");
+		}
+		/*************** U8 Font *****************/
+
+		@font-face {
+			font-family: "CircularStd";
+			src:url("https://www.piggyvest.com/fonts/CircularStd-Book.otf") format("opentype");
+		}
+
+		@font-face {
+			font-family: "CircularStd";
+			font-style: italic;
+			src:url("https://www.piggyvest.com/fonts/CircularStd-BookItalic.otf") format("opentype");
+		}
+
+		@font-face {
+			font-family: "CircularStd";
+			font-weight: bold;
+			src:url("https://www.piggyvest.com/fonts/CircularStd-Bold.otf") format("opentype");
+		}
+
+		@font-face {
+			font-family: "centurygothicbold";
+			font-weight: bold;
+			src:url("https://www.piggyvest.com/fonts/centurygothicbold.ttf") format("opentype");
+		}
+
+		@font-face {
+			font-family: "CircularStd";
+			font-weight: bold;
+			src:url("https://www.piggyvest.com/fonts/CircularStd-Bold.otf") format("opentype");
+		}
+
+
+
+		body {
+			font-family: 'CircularStd', sans-serif;
+		}
+
+		h1, h2, h3, h4, h5, h6 {
+			/* font-family: 'centurygothicbold', 'U8', sans-serif; */
+			font-family: 'U8-Bold', sans-serif;
+		} 
+
+		.story .card {
+			border-radius: 25px;
+		}
+
+		/*
+		@font-face{
+			font-family:poppins;
+			font-style:normal;
+			font-weight:300;
+			src:local('Poppins Light'),local('Poppins-Light'),url(https://www.piggyvest.com/fonts/poppins300.woff2) format('woff2');
+			unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215
+			}
+		@font-face{
+			font-family:poppins;
+			font-style:normal;
+			font-weight:400;
+			src:local('Poppins Regular'),local('Poppins-Regular'),url(https://www.piggyvest.com/fonts/poppins400.woff2) format('woff2');
+			unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215;
+		}
+		@font-face{
+			font-family:poppins;
+			font-style:normal;
+			font-weight:700;
+			src:local('Poppins SemiBold'),local('Poppins-SemiBold'),url(https://www.piggyvest.com/fonts/poppins600.woff2) format('woff2');
+			unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215;
+		}
+
+		body{
+			font-family:poppins,sans-serif,Arial,Helvetica,sans-serif;
+		}
+
+		h1,h2,h3,h4,h5,h6{
+			font-family:poppins,sans-serif,Arial,Helvetica,sans-serif;
+		}
+		*/
+		/*
+		body {
+			font-family: 'Varela Round', sans-serif;
+		}
+		*/
+		.inputcontrol {
+			color: #444;
+		}
+
+
+		.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9{position:relative;min-height:1px;padding-right:15px;padding-left:15px}.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9{float:left}.col-xs-12{width:100%}.col-xs-11{width:91.66666667%}.col-xs-10{width:83.33333333%}.col-xs-9{width:75%}.col-xs-8{width:66.66666667%}.col-xs-7{width:58.33333333%}.col-xs-6{width:50%}.col-xs-5{width:41.66666667%}.col-xs-4{width:33.33333333%}.col-xs-3{width:25%}.col-xs-2{width:16.66666667%}.col-xs-1{width:8.33333333%}.col-xs-pull-12{right:100%}.col-xs-pull-11{right:91.66666667%}.col-xs-pull-10{right:83.33333333%}.col-xs-pull-9{right:75%}.col-xs-pull-8{right:66.66666667%}.col-xs-pull-7{right:58.33333333%}.col-xs-pull-6{right:50%}.col-xs-pull-5{right:41.66666667%}.col-xs-pull-4{right:33.33333333%}.col-xs-pull-3{right:25%}.col-xs-pull-2{right:16.66666667%}.col-xs-pull-1{right:8.33333333%}.col-xs-pull-0{right:auto}.col-xs-push-12{left:100%}.col-xs-push-11{left:91.66666667%}.col-xs-push-10{left:83.33333333%}.col-xs-push-9{left:75%}.col-xs-push-8{left:66.66666667%}.col-xs-push-7{left:58.33333333%}.col-xs-push-6{left:50%}.col-xs-push-5{left:41.66666667%}.col-xs-push-4{left:33.33333333%}.col-xs-push-3{left:25%}.col-xs-push-2{left:16.66666667%}.col-xs-push-1{left:8.33333333%}.col-xs-push-0{left:auto}.col-xs-offset-12{margin-left:100%}.col-xs-offset-11{margin-left:91.66666667%}.col-xs-offset-10{margin-left:83.33333333%}.col-xs-offset-9{margin-left:75%}.col-xs-offset-8{margin-left:66.66666667%}.col-xs-offset-7{margin-left:58.33333333%}.col-xs-offset-6{margin-left:50%}.col-xs-offset-5{margin-left:41.66666667%}.col-xs-offset-4{margin-left:33.33333333%}.col-xs-offset-3{margin-left:25%}.col-xs-offset-2{margin-left:16.66666667%}.col-xs-offset-1{margin-left:8.33333333%}.col-xs-offset-0{margin-left:0}
+
+		@media (min-width:768px){
+			.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9{float:left}.col-sm-12{width:100%}.col-sm-11{width:91.66666667%}.col-sm-10{width:83.33333333%}.col-sm-9{width:75%}.col-sm-8{width:66.66666667%}.col-sm-7{width:58.33333333%}.col-sm-6{width:50%}.col-sm-5{width:41.66666667%}.col-sm-4{width:33.33333333%}.col-sm-3{width:25%}.col-sm-2{width:16.66666667%}.col-sm-1{width:8.33333333%}.col-sm-pull-12{right:100%}.col-sm-pull-11{right:91.66666667%}.col-sm-pull-10{right:83.33333333%}.col-sm-pull-9{right:75%}.col-sm-pull-8{right:66.66666667%}.col-sm-pull-7{right:58.33333333%}.col-sm-pull-6{right:50%}.col-sm-pull-5{right:41.66666667%}.col-sm-pull-4{right:33.33333333%}.col-sm-pull-3{right:25%}.col-sm-pull-2{right:16.66666667%}.col-sm-pull-1{right:8.33333333%}.col-sm-pull-0{right:auto}.col-sm-push-12{left:100%}.col-sm-push-11{left:91.66666667%}.col-sm-push-10{left:83.33333333%}.col-sm-push-9{left:75%}.col-sm-push-8{left:66.66666667%}.col-sm-push-7{left:58.33333333%}.col-sm-push-6{left:50%}.col-sm-push-5{left:41.66666667%}.col-sm-push-4{left:33.33333333%}.col-sm-push-3{left:25%}.col-sm-push-2{left:16.66666667%}.col-sm-push-1{left:8.33333333%}.col-sm-push-0{left:auto}.col-sm-offset-12{margin-left:100%}.col-sm-offset-11{margin-left:91.66666667%}.col-sm-offset-10{margin-left:83.33333333%}.col-sm-offset-9{margin-left:75%}.col-sm-offset-8{margin-left:66.66666667%}.col-sm-offset-7{margin-left:58.33333333%}.col-sm-offset-6{margin-left:50%}.col-sm-offset-5{margin-left:41.66666667%}.col-sm-offset-4{margin-left:33.33333333%}.col-sm-offset-3{margin-left:25%}.col-sm-offset-2{margin-left:16.66666667%}.col-sm-offset-1{margin-left:8.33333333%}.col-sm-offset-0{margin-left:0}
+		}
+
+		@media (min-width:992px){
+			.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9{float:left}.col-md-12{width:100%}.col-md-11{width:91.66666667%}.col-md-10{width:83.33333333%}.col-md-9{width:75%}.col-md-8{width:66.66666667%}.col-md-7{width:58.33333333%}.col-md-6{width:50%}.col-md-5{width:41.66666667%}.col-md-4{width:33.33333333%}.col-md-3{width:25%}.col-md-2{width:16.66666667%}.col-md-1{width:8.33333333%}.col-md-pull-12{right:100%}.col-md-pull-11{right:91.66666667%}.col-md-pull-10{right:83.33333333%}.col-md-pull-9{right:75%}.col-md-pull-8{right:66.66666667%}.col-md-pull-7{right:58.33333333%}.col-md-pull-6{right:50%}.col-md-pull-5{right:41.66666667%}.col-md-pull-4{right:33.33333333%}.col-md-pull-3{right:25%}.col-md-pull-2{right:16.66666667%}.col-md-pull-1{right:8.33333333%}.col-md-pull-0{right:auto}.col-md-push-12{left:100%}.col-md-push-11{left:91.66666667%}.col-md-push-10{left:83.33333333%}.col-md-push-9{left:75%}.col-md-push-8{left:66.66666667%}.col-md-push-7{left:58.33333333%}.col-md-push-6{left:50%}.col-md-push-5{left:41.66666667%}.col-md-push-4{left:33.33333333%}.col-md-push-3{left:25%}.col-md-push-2{left:16.66666667%}.col-md-push-1{left:8.33333333%}.col-md-push-0{left:auto}.col-md-offset-12{margin-left:100%}.col-md-offset-11{margin-left:91.66666667%}.col-md-offset-10{margin-left:83.33333333%}.col-md-offset-9{margin-left:75%}.col-md-offset-8{margin-left:66.66666667%}.col-md-offset-7{margin-left:58.33333333%}.col-md-offset-6{margin-left:50%}.col-md-offset-5{margin-left:41.66666667%}.col-md-offset-4{margin-left:33.33333333%}.col-md-offset-3{margin-left:25%}.col-md-offset-2{margin-left:16.66666667%}.col-md-offset-1{margin-left:8.33333333%}.col-md-offset-0{margin-left:0}
+		}
+
+		@media (min-width:1200px){
+			.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9{float:left}.col-lg-12{width:100%}.col-lg-11{width:91.66666667%}.col-lg-10{width:83.33333333%}.col-lg-9{width:75%}.col-lg-8{width:66.66666667%}.col-lg-7{width:58.33333333%}.col-lg-6{width:50%}.col-lg-5{width:41.66666667%}.col-lg-4{width:33.33333333%}.col-lg-3{width:25%}.col-lg-2{width:16.66666667%}.col-lg-1{width:8.33333333%}.col-lg-pull-12{right:100%}.col-lg-pull-11{right:91.66666667%}.col-lg-pull-10{right:83.33333333%}.col-lg-pull-9{right:75%}.col-lg-pull-8{right:66.66666667%}.col-lg-pull-7{right:58.33333333%}.col-lg-pull-6{right:50%}.col-lg-pull-5{right:41.66666667%}.col-lg-pull-4{right:33.33333333%}.col-lg-pull-3{right:25%}.col-lg-pull-2{right:16.66666667%}.col-lg-pull-1{right:8.33333333%}.col-lg-pull-0{right:auto}.col-lg-push-12{left:100%}.col-lg-push-11{left:91.66666667%}.col-lg-push-10{left:83.33333333%}.col-lg-push-9{left:75%}.col-lg-push-8{left:66.66666667%}.col-lg-push-7{left:58.33333333%}.col-lg-push-6{left:50%}.col-lg-push-5{left:41.66666667%}.col-lg-push-4{left:33.33333333%}.col-lg-push-3{left:25%}.col-lg-push-2{left:16.66666667%}.col-lg-push-1{left:8.33333333%}.col-lg-push-0{left:auto}.col-lg-offset-12{margin-left:100%}.col-lg-offset-11{margin-left:91.66666667%}.col-lg-offset-10{margin-left:83.33333333%}.col-lg-offset-9{margin-left:75%}.col-lg-offset-8{margin-left:66.66666667%}
+		}
+
+
+
+		.container {
+			margin: 0 auto;
+			max-width: 1310px;
+			padding: 40px 0;
+			box-sizing: border-box; 
+			width: 90%;
+		}
+
+		.minicontainer{
+			max-width: 980px;
+		}
+		@media (max-width: 768px) {
+			.container {
+				width: 90%;
+				font-size: 12px; 
+			} 
+		}
+
+		/*
+		.container {
+			width: 100%;
+			max-width: 1310px;
+		}
+
+
+		.minicontainer{
+			max-width: 980px;
+		}
+		*/
+		.scrolled .logo-alt, .alt-nav .logo-alt {
+			max-width: 180px;
+		}
+
+		.bluecolor, .content h1, .header h1, h2 {
+			color: #083E9E !important;
+		}
+	</style>
+		<style type="text/css"> 
+		@media (max-width: 600px) {
+			.page-content section {
+				padding: 10px;
+			}
+			.page-content .card {
+				padding: 10px;
+			}
+		}
+	</style>
+</head>
+<!--<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-73641858-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-73641858-1" type="8a8f26be28d512cc8fe70ead-text/javascript"></script>
+<script type="8a8f26be28d512cc8fe70ead-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-73641858-1');
+</script>
+<!-- Hotjar Tracking Code for www.piggybank.ng -->
+<script type="8a8f26be28d512cc8fe70ead-text/javascript">
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1053604,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<style type="text/css">
+	.scrolled, .alt-nav, .navwhite {
+		box-shadow: none;
+	}
+
+	.nav-icon .line1, .white-nav-icon .line1, .blue-nav-icon .line1, .nav-icon .line2, .white-nav-icon .line2, .blue-nav-icon .line2, .nav-icon .line3, .white-nav-icon .line3, .blue-nav-icon .line3, .nav-icon .signin-modal .closeslide .line2, .signin-modal .closeslide .nav-icon .line2, .white-nav-icon .signin-modal .closeslide .line2, .signin-modal .closeslide .white-nav-icon .line2, .blue-nav-icon .signin-modal .closeslide .line2, .signin-modal .closeslide .blue-nav-icon .line2, .nav-icon .register .closeslide .line2, .register .closeslide .nav-icon .line2, .white-nav-icon .register .closeslide .line2, .register .closeslide .white-nav-icon .line2, .blue-nav-icon .register .closeslide .line2, .register .closeslide .blue-nav-icon .line2 { 
+		background: #144499 !important;
+	}
+
+	.mainheroholder{
+		background-image: url(https://storage.googleapis.com/piggybankservice.appspot.com/statics/woman-header-min.png);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: top right;
+		padding-bottom: 130px;
+	}
+	.main-header {
+		width: 100%;
+		padding-bottom: 0px;
+		background: none;
+		background-color: none;
+		background-blend-mode: multiply;
+		-webkit-clip-path: none;
+		clip-path: none;
+		background-size: cover;
+		color: #144499;
+		position: relative;
+		overflow: hidden;
+		z-index: 500;
+	}
+
+	.container {
+		/*
+		width: 100%;
+		max-width: 1310px;
+		*/
+	}
+
+
+	.minicontainer{
+		max-width: 980px;
+	}
+
+
+	.bluecolor{
+		color: #144499;
+	}
+
+	.bold{
+		font-weight: bold;
+	}
+
+	.ashcolor{
+		color: #444;
+	}
+
+	.intro-text h1 {
+		font-size: 50px;
+		line-height: 55px;
+		letter-spacing: -2px;
+	}
+
+	.cards-icon{
+		height: 25px;
+		display: block;
+		margin-top: 50px;
+	}
+
+
+	.grayback{
+		background: #fbfbfb;
+	}
+
+
+	.rightimage{
+		position: absolute;
+		height: calc(644.67px);
+		right: -20px;
+		top: 100px;
+		text-align: center;
+		-webkit-transform: rotate(10deg);
+		transform: rotate(0deg);
+		transition: all 300ms ease-in-out;
+		z-index: 600;
+	}
+
+
+	.rightimage img{
+		width: 100%;
+	}
+
+
+	.securealertbox{
+		display: table;
+		text-align: left;
+		max-width: 700px;
+	}
+
+
+	.securealertbox > div{
+		display: table-cell;
+		vertical-align: middle;
+	}
+
+
+	.securealertbox > .imagepart{
+		width: 100px;
+	}
+
+
+	.securealertbox > .imagepart > img{
+		width: 100%;
+	}
+
+
+	.securealertbox > .textpart{
+		padding-left: 30px;
+	}
+
+	.securealertbox .textheader{
+		font-size: 24px;
+		margin-bottom: 5px;
+	}
+
+	.securealertbox .textinfo{
+		font-size: 14px;
+	}
+
+
+	.why_p_box{
+		display: table;
+		margin: 60px 0px;
+	}
+
+
+	.why_p_box > div{
+		display: table-cell;
+		vertical-align: middle;
+	}
+
+
+	.why_p_box > div{
+		display: table-cell;
+	}
+
+
+	.why_p_box > div:first-child{
+		width: 70%;
+		padding-right: 30px;
+	}
+
+
+	.why_p_box > div:last-child img{
+		width: 100%;
+	}
+
+	.pointspart{
+		text-align: left;
+		margin-bottom: 50px;
+	}
+
+	.pheader{
+		font-size: 18px;
+		margin-bottom: 5px;
+	}
+
+	.pheader .fa{
+		margin-right: 10px;
+	}
+
+	.pinfo{
+		font-size: 14px;
+	}
+
+	.piconenabled .pinfo{
+		margin-left: 34px;
+	}
+
+	.piconenabled .pheader .fa{
+		display: inline-block;
+		margin-right: 10px;
+	}
+
+	.feature-text{
+		margin-top: 15%;
+	}
+
+	.featuremonth-text{
+		margin-top: 50px;
+	}
+
+	.feature-text h2{
+		font-size: 30px;
+	}
+
+	.feature-text p{
+		font-size: 16px;
+		line-height: 30px;
+		color: #444;
+	}
+
+	.feature .feature-image img {
+		width: 100%;
+		box-shadow: none;
+	}
+
+	.howtostart h3{
+		font-size: 20px;
+	}
+
+	.stories { 
+		background-image: none;
+	}
+
+	.spaceout{
+		padding: 100px 0px;
+	}
+
+	.partners_image{
+		width: 90%;
+		max-width: 900px;
+	}
+
+	._outfeature_box{
+		margin-bottom: 10px;
+		padding: 30px 30px;
+		border-radius: 10px;
+		text-align: left;
+		background-position: 160% 180%;
+		background-repeat: no-repeat;
+		background-size: 60%;
+	}
+
+	._outfeature_box img{
+		width: 100%;
+		margin-bottom: 50px;
+	}
+
+	._outfeature_box h3{
+		font-size: 30px;
+		font-weight: bold;
+		line-height: 40px;
+	}
+
+	._outfeature_box p{
+		font-size: 14px;
+		line-height: 22px;
+		color: #616161;
+	}
+
+	.savingsfeature{
+		border: 1px solid #e3ecff;
+	}
+
+	.investfeature{
+		border: 1px solid #eadfff;
+	}
+
+	.investfeature h3{
+		color: #674498;
+	}
+
+	.investcontent h1 {
+		color: #674498;
+	}
+
+
+	@media (max-width: 600px) {
+		._mobilecenter{
+			text-align: center;
+			margin-top: 50px;
+		}
+
+
+		.mainheroholder {
+			background-image: none; 
+			padding-bottom: 50px;
+			text-align: left;
+		}
+
+
+		.intro-text h1 {
+			font-size: 30px;
+			line-height: 48px;
+		}
+
+		.feature-text h2{
+			font-size: 18px;
+		}
+
+		.feature-text p{
+			font-size: 12px;
+			line-height: 22px;
+		}
+
+		.securealertbox .textheader {
+			font-size: 16px;
+			margin-bottom: 3px;
+		}
+
+		.securealertbox .textinfo {
+			font-size: 11px;
+			line-height: 18px;
+		}
+
+
+		.feature .feature-text { 
+			text-align: left;
+		}
+
+
+		.featuremonth-text {
+			text-align: center !important;
+		}
+
+	}
+</style><body>
+	
+<!-- sign in -->
+<div class="signin-modal">
+	<div class="closeslide">
+		<div class="line1"></div>
+		<div class="line2"></div>
+	</div>
+	            <div class="_half-width _left _padding-50 _no-show">
+				<img src="https://www.piggyvest.com/sitestatics/img/piggy-signin.png" class="signin-img _margin-50" alt="">
+				<h1 class="_margin-100">It's time to Save & Invest</h1>	
+			</div>
+			<div class="_right _padding-50 signin">
+				<div class="_center">
+					<a href="https://www.piggyvest.com"><img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/piggy-png_1_.png" class="logo" alt="PiggyVest Logo"></a>
+					<h2>Login to your Account</h2>
+				</div>
+				<form action="https://www.piggyvest.com/login" method="post" class="_margin-100 signin-form">
+                    					<label for="email" class="_left">Email or Phone Number</label>
+					<input type="text" name="email" value="" class="_left _margin-10">
+					<label for="password" class="_margin-20 _left">Password</label>
+					<input type="password" name="password" class="_left _margin-10">
+					<div class="clearboth"></div>
+						<div class="actionholder">
+                        <input type="hidden" name="loginacc" value="1">
+                        <input type="hidden" name="goto" value="https://www.piggyvest.com/">
+						<input type="submit" class="btn _margin-20" value="Log In">
+
+						<div class="_margin-20">
+							<a href="https://www.piggyvest.com/register" class="_margin-20">Create an Account Instead</a> <br>
+							<a href="https://www.piggyvest.com/forgot" class="_margin-20">Forgot Password?</a>
+						</div>
+					</div>
+				</form>
+			</div>
+</div>
+<!-- mobile menu icon -->
+<div class="nav-icon nav-icon _margin-10">
+	<div class="line1"></div>
+	<div class="line2"></div>
+	<div class="line3"></div>
+</div> 
+
+<!-- mobile menu icon End -->
+<!-- mobile menu -->
+<nav class="mobile-nav"> 
+				<div class="container">
+			<ul class="menu">
+			    <!--
+				<l1><span class="products">Products</span>
+					<ul class="sub-menu">
+						<li><a href="https://www.frontdesk.ng">FrontDesk.ng</a></li>
+						<li><a href="https://www.pushcv.com/">PushCV</a></li>
+					</ul>
+				</l1>
+			-->
+			<l1><a href="https://www.piggyvest.com/about">About</a></l1>
+			<l1><a href="https://www.piggyvest.com/stories">Stories</a></l1>
+			<l1><a href="https://www.piggyvest.com/faq">FAQ</a></l1>
+			<l1><a href="https://medium.com/@Piggyvest" target="_blank">Blog</a></l1>
+												<l1><a href="https://dashboard.piggyvest.com/login">Log In</a></l1>
+					<l1><a href="https://dashboard.piggyvest.com/register" class="signup-btn">Create a Free Account</a></l1>
+									</ul>
+	</div>  
+</nav>
+<!-- mobile menu End -->
+<!-- Nav -->
+<nav class="top-nav  alt-nav navwhite">
+		<div class="container">
+					<a href="/">
+				<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/piggy-svg-white.svg" class="logo" alt="">
+			</a>
+			<a href="/">
+				<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/piggy-png_1_.png" class="logo-alt" alt="">
+			</a>
+  
+			<ul class="menu _no-show">
+
+                <!--
+				<li class="menu-list">
+					<a href="#" class="menu-link">Products</a>
+					<ul class="submenu">
+						<li>
+							<a href="https://www.frontdesk.ng" target="_blank" class="submenu-link front">
+								FrontDesk.ng <br>
+								<span class="submenu-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</span>
+							</a>
+						</li>
+						<li>
+							<a href="https://www.pushcv.com/" target="_blank" class="submenu-link push">
+								PushCV <br>
+								<span class="submenu-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae?</span>
+							</a>
+						</li>
+					</ul>
+				</li>
+				-->
+
+			<li class="menu-list"><a href="https://www.piggyvest.com/about" class="menu-link">About</a></li>
+			<li class="menu-list"><a href="https://www.piggyvest.com/stories" class="menu-link">Stories</a></li>
+			<li class="menu-list"><a href="https://www.piggyvest.com/faq" class="menu-link">FAQ</a></li>
+			<li class="menu-list"><a href="https://medium.com/@Piggyvest" target="_blank" class="menu-link">Blog</a></li>
+												<li class="menu-list"><a href="https://dashboard.piggyvest.com/login" class="menu-link">Log In</a></li>
+					<li class="menu-list"><a href="https://dashboard.piggyvest.com/register" class="menu-link signup-btn">Create a Free Account</a></li>
+									</ul>
+	</div>
+</nav>
+	<!-- Nav End -->
+	<!-- Header End --> 
+	<header class="main-header">
+		<section class="intro-text _margin-100">
+			<div class="container mainheroholder">
+				<div class="_mobilecenter">
+					<h1 class="_half-width _margin-50 bluecolor bold">The Better Way<br />To Save & Invest</h1>
+					<p class="_half-width _margin-20 ashcolor">PiggyVest helps you achieve financial freedom by enabling you save responsibly and invest on the go.<br /><br />Earn 10% - 15.5% interests on savings.<br />Earn over 25% return on investments.</p> 
+					<a href="/register" class="btn _margin-20">Create a Free Account</a> 
+					<div>
+						<a href="https://www.piggyvest.com/appstorelink/ios" target="_blank">
+							<img src="https://www.piggyvest.com//images/iosbadge-101-image.png" class="download app_store_badges" />
+						</a>
+						<a href="https://www.piggyvest.com/appstorelink/android" target="_blank">
+							<img src="https://www.piggyvest.com//images/google-play-badge.png" class="download app_store_badges" />
+						</a>
+					</div>
+					<!--
+						<span><img src="https://www.piggyvest.com/sitestatics/img/bankcards.png" class="cards-icon" alt=""></span>
+					-->
+			</div>
+		</div>
+	</section>
+</header>
+<!-- Header End -->
+
+<!-- Protection -->
+<section class="content grayback"> 
+	<div class="container _center securealertbox">
+		<div class="imagepart">
+			<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/security-login-400-min.png" alt="">
+		</div>
+		<div class="textpart">
+			<div class="textheader bluecolor bold">Your Security is our Priority</div>
+			<div class="textinfo ashcolor">PiggyVest uses the highest levels of Internet Security, and it is secured by 256 bits SSL security encryption to ensure that your information is completely protected from fraud.</div>
+		</div>
+	</div>
+</section>
+<!-- Protection -->
+
+<!-- Why Piggy 
+<section class="content"> 
+	<div class="container minicontainer _center">
+		<h1 class="_margin-100 bold">Why PiggyVest?</h1> 
+		<div class="why_p_box">
+			<div>
+				<div class="pointspart">
+					<div class="pheader bluecolor bold">Easy To Use</div>
+					<div class="pinfo ashcolor">Simple design. Save manually or automatically.</div>
+				</div>
+				<div class="pointspart">
+					<div class="pheader bluecolor bold">Stay Disciplined</div>
+					<div class="pinfo ashcolor">Avoid the temptation to withdraw unnecessarily. Lock away funds for a set period.</div>
+				</div>
+				<div class="pointspart">
+					<div class="pheader bluecolor bold">Flexible</div>
+					<div class="pinfo ashcolor">Choose the best type of savings and investment plan to suit your needs.</div>
+				</div>
+				<div class="pointspart">
+					<div class="pheader bluecolor bold">Transparent</div>
+					<div class="pinfo ashcolor">Track your transaction activities easily.</div>
+				</div>
+			</div>
+			<div><img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/why-piggy-min.png" alt=""></div>
+		</div>
+	</div>
+</section>
+Why Piggy -->
+
+
+
+<!-- Savings BOX -->
+<section class="content">
+	<div class="container _center">
+		<h1 class="_margin-100 bold">Save smartly & responsibly!</h1>
+		<div class="_subtitle">PiggyVest helps you reach your savings target much faster with various savings types.<br />Plus you can even team up with others to reach joint goals.</div>
+		<div class="how-works howtostart _margin-50">
+			<div class="_width-33 _padding-20 _flex _outfeature_box savingsfeature">
+				<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/New-homepage-1.png" alt="">
+				<h3 class="bluecolor bold">Enjoy<br />quarterly savings</h3>
+				<p>Join over 100,000 users that use our quarterly savings feature called "PiggyBank" to reach their general/personal savings goals more quickly.</p>
+			</div>
+			<div class="_width-33 _padding-20 _flex _outfeature_box savingsfeature">
+				<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/New-homepage-3.png" alt="">
+				<h3 class="bluecolor bold">Reach<br />multiple targets</h3>
+				<p>Set and reach multiple saving goals you set using our "Target Savings" feature, you can save for holidays, fees or even special events.</p>
+			</div>
+			<div class="_width-33 _padding-20 _flex _outfeature_box savingsfeature">
+				<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/New-homepage-2.png" alt="">
+				<h3 class="bluecolor bold">Lock<br />funds away</h3>
+				<p>Use our "SafeLock" feature to lock funds away so you don't have access until your set date. You also earn over 13% p.a.</p>
+			</div>
+		</div>
+		<!--<a href="javascript:;" onclick="scrollToElement('#usp');" class="btn blue _margin-50">Learn More</a>-->
+	</div>
+</section>
+<!-- Savings BOX -->
+
+<!-- Invest BOX -->
+<section class="content investcontent">
+	<div class="container _center">
+		<h1 class="_margin-100 bold">Invest in bits & on the go!</h1>
+		<div class="_subtitle">Many investments are expensive, which makes it hard to get started.<br />At PiggyVest, you too can invest in tiny & affordable chunks and still enjoy the same return rates in amazing opportunities.</div>
+		<div class="how-works howtostart _margin-50">
+			<div class="_width-33 _padding-20 _flex _outfeature_box investfeature">
+				<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/New-homepage-4.png" alt="">
+				<h3 class="bluecolor bold">Co-invest<br />in opportunities</h3>
+				<p>Join other PiggyVest users to co-invest in guaranteed fixed income investments & other amazing projects.</p>
+			</div>
+			<div class="_width-33 _padding-20 _flex _outfeature_box investfeature">
+				<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/New-homepage-5.png" alt="">
+				<h3 class="bluecolor bold">Decide<br />on what to invest</h3>
+				<p>You have complete control on the type of investments you want to engage. All opportunities are pre-vetted by PiggyVest.</p>
+			</div>
+			<div class="_width-33 _padding-20 _flex _outfeature_box investfeature">
+				<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/New-homepage-6.png" alt="">
+				<h3 class="bluecolor bold">Watch<br />your portfolio grow</h3>
+				<p>Easily monitor the progress of your investments from your PiggyVest dashboard.</p>
+			</div>
+		</div>
+		<!--<a href="javascript:;" onclick="scrollToElement('#usp');" class="btn blue _margin-50">Learn More</a>-->
+	</div>
+</section>
+<!-- Invest BOX -->
+
+<!-- 
+<section class="content grayback" id="usp">
+	<div class="container minicontainer">
+		<h1 class="_margin-50 _center bold">4 Features To Choose From</h1>
+		<div class="feature _margin-20">
+			<div class="_half-width _padding-20 _center _flex feature-image">
+				<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/1b-min.png" alt="">
+			</div>
+			<div class="_half-width _padding-20 _margin-100 _flex feature-text">
+				<h2>1. Piggybank™ Savings</h2>
+				<p>Choose from automatic daily, weekly, monthly savings plans to suit your needs. You can also save as you go, or on your own terms. <i>Withdrawals are resctricted</i> to withdrawal days or a date you set.
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<section class="content" id="usp">
+		<div class="container minicontainer">
+			<div class="feature _margin-20">
+				<div class="_half-width _padding-20 _margin-100 _flex feature-text">
+					<h2>2. SafeLock™</h2>
+					<p><b class="bold">SafeLock™ on PiggyVest Works like Treasury Bills - </b> Invest and grow your money in a flexible way. Put away funds from as little as 10 days to 1,000 days and earn over 13% annualized interest paid to you upfront instantly.</p>
+				</div>
+				<div class="_half-width _padding-20 _center _flex feature-image">
+					<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/2b-min.png" alt="">
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<section class="content grayback" id="usp">
+		<div class="container minicontainer"> 
+			<div class="feature _margin-20">
+				<div class="_half-width _padding-20 _center _flex feature-image">
+					<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/3b-min.png" alt="">
+				</div>
+				<div class="_half-width _padding-20 _margin-100 _flex feature-text">
+					<h2>3. Target Savings</h2>
+					<p><b class="bold">Reach your savings goals faster - </b> Create multiple savings targets to accommodate all your savings goals and also get interests paid to you daily.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+
+	<section class="content" id="usp">
+		<div class="container minicontainer">
+			<div class="feature _margin-20">
+				<div class="_half-width _padding-20 _margin-100 _flex feature-text">
+					<h2>4. Group Savings Challenge</h2>
+					<p><b class="bold">Simplified group savings - </b> You can save towards a common goal with friends, family and co-workers. Everyone in the group also gets interests paid to them daily.</p>
+				</div>
+				<div class="_half-width _padding-20 _center _flex feature-image">
+					<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/4b-min.png" alt="">
+				</div>
+			</div>
+		</div>
+	</section>
+	Features End -->
+
+<!--
+	<section class="content grayback">
+		<div class="container _center spaceout">
+			<h1 class="bold">Over ₦1,000,000,000 securely saved every month.</h1>
+			<p>
+				PiggyVest uses bank-level security measures to keep your data safe. PiggyVest users save & invest well over a billion every single month, and they are just getting started.
+			</p>
+			<a href="https://www.piggyvest.com/register" class="btn blue _margin-20">Create Account for Free</a>
+
+			<div class="_clear"></div>
+			<a href="https://www.piggyvest.com/appstorelink/ios" target="_blank">
+				<img src="https://www.piggyvest.com//images/iosbadge-101-image.png" class="download app_store_badges" />
+			</a>
+			<a href="https://www.piggyvest.com/appstorelink/android" target="_blank">
+				<img src="https://www.piggyvest.com//images/google-play-badge.png" class="download app_store_badges" />
+			</a>
+
+		</div>
+	</section>
+-->
+
+	<!--
+	<section class="content grayback">
+		<div class="container _center spaceout">
+			<h1 class="bold">It's Simple, Get Started in 2 Minutes!</h1>
+			<p>Create a PiggyVest account and see what it feels like to really save and watch your money grow.</p>
+			<a href="https://www.piggyvest.com/register" class="btn blue _margin-20">Create Account for Free</a>
+
+			<div class="_clear"></div>
+			<a href="https://www.piggyvest.com/appstorelink/ios" target="_blank">
+				<img src="https://www.piggyvest.com//images/iosbadge-101-image.png" class="download app_store_badges" />
+			</a>
+			<a href="https://www.piggyvest.com/appstorelink/android" target="_blank">
+				<img src="https://www.piggyvest.com//images/google-play-badge.png" class="download app_store_badges" />
+			</a>
+
+		</div>
+	</section>
+-->
+
+
+<!--
+	<section class="content">
+		<div class="container _center">
+			<h1 class="_margin-100 bold">How To Get Started</h1>
+			<div class="how-works howtostart _margin-50">
+				<div class="_width-33 _padding-20 _flex">
+					<img src="https://www.piggyvest.com/sitestatics/img/open-piggy-min.jpg" alt="">
+					<h3 class="bluecolor bold">Create an Account</h3>
+					<p>Create an account for FREE, set how much and how frequently you want to save into your Piggybank.ng account.</p>
+				</div>
+				<div class="_width-33 _padding-20 _flex">
+					<img src="https://www.piggyvest.com/sitestatics/img/small-small-min.jpg" alt="">
+					<h3 class="bluecolor bold">Set Your Savings Plan</h3>
+					<p>Daily, weekly or monthly, Piggybank.ng gets the amount you set from your debit card safely into your Piggybank.ng account.</p>
+				</div>
+				<div class="_width-33 _padding-20 _flex">
+					<img src="https://www.piggyvest.com/sitestatics/img/withdraw-min.jpg" alt="">
+					<h3 class="bluecolor bold">Watch Your Savings Grow</h3>
+					<p>You can withdraw all or part of your savings into your bank account for FREE only on your set withdrawal day or be charged a <b>breaking fee</b>.</p>
+				</div>
+			</div>
+			<a href="javascript:;" onclick="scrollToElement('#usp');" class="btn blue _margin-50">Learn More</a>
+		</div>
+	</section>
+-->
+
+	<section class="content saverofmonth-section">
+		<div class="container minicontainer">
+			<h1 class="_center _margin-20 bold">The saver of the month!</h1>
+			<div class="feature _margin-20">
+				<div class="_half-width _padding-20 feature-image">
+					<img src="https://storage.googleapis.com/piggybankservice.appspot.com/main-assets/smallpic3bd61a3410.jpg" class="meet-img" alt="">
+				</div>
+				<div class="_half-width _padding-20 _margin-100 feature-text featuremonth-text">
+					<h1>Meet Adah & Kristie</h1>
+					<p>Every month, we shine a spotlight on one saver, asking them questions about their savings culture and how the product is specifically helping them shape how they spend and save for future responsibilities.</p>
+					<a href="https://medium.com/@PiggyVest/meetapiggyvestsaver-adah-and-kristie-alubo-53b9f733da87" target="_blank" class="btn _margin-20">Meet Adah & Kristie</a>
+				</div>
+			</div>
+		</div>
+	</section>
+
+<!-- Stories -->
+<section class="content stories shadesection" style="background-color: #083E9E;">
+	<div class="container minicontainer" style="padding: 100px 0px;">
+		<h1 class="_center bold" style="color: #fff !important">Recently verified customer stories/feedback</h1>
+		             
+			<div class="story"> 
+			<div class="avatar" style="background-image: url('https://storage.googleapis.com/piggybankservice.appspot.com/_story_pics/img44204ced46.jpeg');">.</div>
+			<div class="card">
+			<div class="name"><a href="https://www.piggyvest.com/stories/story/317ad0ea3a72?utm_source=mypiggybankstorypage&utm_content=mypiggybankstory&utm_campaign=mypiggybankstory">Olamilekan O.</a></div>
+			<p class="_margin-20">"Piggyvest has really helped me a lot. Before I got to know about Piggyvest, I use to have trouble saving but now thanks to Piggyvest, all is well"<span class="tinystorytime"><i>Posted on Monday, 2nd of March 2020 by 23:37 PM</i></span></p>
+			</div>
+			</div>             
+			<div class="story"> 
+			<div class="avatar" style="background-image: url('https://storage.googleapis.com/piggybankservice.appspot.com/_story_pics/img1fc93b4d04.jpeg');">.</div>
+			<div class="card">
+			<div class="name"><a href="https://www.piggyvest.com/stories/story/87dea768208a?utm_source=mypiggybankstorypage&utm_content=mypiggybankstory&utm_campaign=mypiggybankstory">Emmanuella A.</a></div>
+			<p class="_margin-20">"Piggyvest is the best money saving platform I've used. I recommend it to everyone who wants to save money stress-free"<span class="tinystorytime"><i>Posted on Monday, 2nd of March 2020 by 20:57 PM</i></span></p>
+			</div>
+			</div>             
+			<div class="story"> 
+			<div class="avatar" style="background-image: url('https://storage.googleapis.com/piggybankservice.appspot.com/_story_pics/img108192fafd.jpeg');">.</div>
+			<div class="card">
+			<div class="name"><a href="https://www.piggyvest.com/stories/story/485d305c06f0?utm_source=mypiggybankstorypage&utm_content=mypiggybankstory&utm_campaign=mypiggybankstory">Valentine I.</a></div>
+			<p class="_margin-20">"FEW YEARS AGO I HAD SERIOUS CHALLENGE IN MY BUSINESS, IN FACT, I WAS EATING FROM HAND TO MOUTH, TO SAVE BECAME BIG PROBLEM, IN THE YEAR 2018 I SAW A POST ON THE FACEBOOK PAGE ABOUT PIGGYVEST, THAT WAS HOW I DOWNLOADED THE APP, BUT AT FIRST I WAS...<a href="https://www.piggyvest.com/stories/story/485d305c06f0?utm_source=mypiggybankstorypage&utm_content=mypiggybankstory&utm_campaign=mypiggybankstory">read more</a>"<span class="tinystorytime"><i>Posted on Monday, 2nd of March 2020 by 18:43 PM</i></span></p>
+			</div>
+			</div>             
+			<div class="story"> 
+			<div class="avatar" style="background-image: url('https://storage.googleapis.com/piggybankservice.appspot.com/_story_pics/img64584791a4.jpeg');">.</div>
+			<div class="card">
+			<div class="name"><a href="https://www.piggyvest.com/stories/story/7ff46626ada4?utm_source=mypiggybankstorypage&utm_content=mypiggybankstory&utm_campaign=mypiggybankstory">Omowunmi K.</a></div>
+			<p class="_margin-20">"I love the interest I get on a daily basis 
+Piggyvest is good"<span class="tinystorytime"><i>Posted on Monday, 2nd of March 2020 by 06:28 AM</i></span></p>
+			</div>
+			</div>             
+			<div class="story"> 
+			<div class="avatar" style="background-image: url('https://storage.googleapis.com/piggybankservice.appspot.com/_story_pics/img3930e03542.jpeg');">.</div>
+			<div class="card">
+			<div class="name"><a href="https://www.piggyvest.com/stories/story/6f051eeda6c5?utm_source=mypiggybankstorypage&utm_content=mypiggybankstory&utm_campaign=mypiggybankstory">Jemimah I.</a></div>
+			<p class="_margin-20">"I have always been terrible at savings, and this has put me behind on achieving some set goals because I'm always low on cash, but Piggyvest has helped me discipline myself and the little cash I get as an entrepreneur I get to keep a little of that...<a href="https://www.piggyvest.com/stories/story/6f051eeda6c5?utm_source=mypiggybankstorypage&utm_content=mypiggybankstory&utm_campaign=mypiggybankstory">read more</a>"<span class="tinystorytime"><i>Posted on Sunday, 1st of March 2020 by 19:29 PM</i></span></p>
+			</div>
+			</div>             
+			<div class="story"> 
+			<div class="avatar" style="background-image: url('https://storage.googleapis.com/piggybankservice.appspot.com/_story_pics/ava7c24ddec15.jpg');">.</div>
+			<div class="card">
+			<div class="name"><a href="https://www.piggyvest.com/stories/story/3bbe08e193d4?utm_source=mypiggybankstorypage&utm_content=mypiggybankstory&utm_campaign=mypiggybankstory">Henry I.</a></div>
+			<p class="_margin-20">"Before I came across PiggyVest I had been very frivolous in spending, finding it so difficult to save, even with my numerous bank accounts, as my unhindered access to the funds in my bank made it so easy for me to filter away whatever amount I...<a href="https://www.piggyvest.com/stories/story/3bbe08e193d4?utm_source=mypiggybankstorypage&utm_content=mypiggybankstory&utm_campaign=mypiggybankstory">read more</a>"<span class="tinystorytime"><i>Posted on Sunday, 1st of March 2020 by 17:27 PM</i></span></p>
+			</div>
+			</div> 
+
+		<div class="_margin-50 _center">
+			<a href="https://www.piggyvest.com/stories" class="btn">Read More Amazing Stories</a>
+		</div>
+
+	</div>
+</section>
+<!-- Stories End -->
+
+
+
+	<!--
+    <section class="content cta">
+		<div class="container _center">
+			<h1 class="bold">Let's Help You Control Your Spending Habit!</h1>
+			<p>Create a PiggyVest account in less than 5 minutes and experience what it really feels like to save & invest with ease!</p>
+			<a href="https://www.piggyvest.com/register" class="btn blue _margin-20">Create Account for Free</a>
+
+			<div class="_clear"></div>
+			<a href="https://www.piggyvest.com/appstorelink/ios" target="_blank">
+        		<img src="https://www.piggyvest.com//images/iosbadge-101-image.png" class="download app_store_badges" />
+        	</a>
+        	<a href="https://www.piggyvest.com/appstorelink/android" target="_blank">
+        		<img src="https://www.piggyvest.com//images/google-play-badge.png" class="download app_store_badges" />
+            </a>
+		</div>
+	</section>
+	--->
+
+	<section class="content cta"  >
+		<div class="container _center">
+			<h1 class="bold">Over ₦1,000,000,000 securely saved every month.</h1>
+			<p>
+				PiggyVest uses bank-level security measures to keep your data safe.<br />PiggyVest users save & invest well over a billion every single month, and they are just getting started.
+			</p>
+			<a href="https://www.piggyvest.com/register" class="btn blue _margin-20">Create Account for Free</a>
+
+			<div class="_clear"></div>
+			<a href="https://www.piggyvest.com/appstorelink/ios" target="_blank">
+				<img src="https://www.piggyvest.com//images/iosbadge-101-image.png" class="download app_store_badges" />
+			</a>
+			<a href="https://www.piggyvest.com/appstorelink/android" target="_blank">
+				<img src="https://www.piggyvest.com//images/google-play-badge.png" class="download app_store_badges" />
+			</a>
+
+		</div>
+	</section>
+
+<!--
+<section class="content">
+	<div class="container _center spaceout">
+		<img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/partners-2019-min.png" class="partners_image" /> 
+	</div>
+</section>	
+-->
+	<footer class="content">
+		<div class="container">
+			<ul class="_right foot-links">
+				<h3>COMPANY</h3>
+				<li>
+					<a href="https://www.piggyvest.com/about">About</a>
+				</li>
+				<!--
+				<li>
+					<a href="https://www.piggyvest.com/careers">Careers</a>
+				</li>
+				-->
+				<li>
+					<a href="https://www.piggyvest.com/faq">FAQs</a>
+				</li>
+				<li>
+					<a href="https://www.piggyvest.com/terms">Terms of Use</a>
+				</li>
+				<li>
+					<a href="https://www.piggyvest.com/privacy">Privacy Policy</a>
+				</li>
+				<li>
+				     
+                    <span class="icon">
+                     	<a href="https://www.facebook.com/PiggybankNG" target="_blank"><img alt="Facebook" src="https://www.piggyvest.com//images/social-media-icon-FB-80-min.png"></a>
+                    </span>
+                                         
+                    <span class="icon">
+                     	<a href="https://twitter.com/PiggybankNG" target="_blank"><img alt="Twitter" src="https://www.piggyvest.com//images/social-media-icon-TWT-80-min.png"></a>
+                    </span>
+                                         
+                    <span class="icon">
+                     	<a href="https://instagram.com/PiggybankNG" target="_blank"><img alt="Instagram" src="https://www.piggyvest.com//images/social-media-icon-instagram-80-min.png"></a>	
+                    </span>
+                    				</li>
+			</ul>
+
+			<ul class="_right foot-links">
+				<h3>Quick Links</h3>
+				<li>
+					<a href="https://www.piggyvest.com/autosave">AutoSave™</a>
+				</li>
+				<li>
+					<a href="https://www.piggyvest.com/link">PiggyLink</a>
+				</li>
+				<li>
+					<a href="https://www.piggyvest.com/quicksave">Quick Save™</a>
+				</li>
+				<li>
+					<a href="https://www.piggyvest.com/safelock">SafeLock™</a>
+				</li>
+				<li>
+					<a href="https://www.piggyvest.com/withdrawals">Withdrawals & Breaking</a>
+				</li>
+				<li>
+					<a href="https://www.piggyvest.com/salarysavingsteps">Salary Management</a>
+				</li>
+			</ul>
+
+			<div class="info">
+				<a href="#"><img src="https://storage.googleapis.com/piggybankservice.appspot.com/statics/piggy-png_1_.png" class="logo" alt=""></a>
+				<p class="_margin-10">
+										PiggyVest <a href='https://medium.com/@PiggybankNG/introducing-piggyvest-the-future-of-savings-and-investments-e82482d3a595' target='_blank'>(formerly piggybank.ng)</a> is the largest online savings & investing platform in Nigeria.<br />For over 4 years, our customers have saved and invested billions of Naira that they would normally be tempted to spend.<br />					<br />
+					Office: Tesmot House, 3 Abdulrahman Okene Close, off Ligali Ayorinde Street, Victoria Island, Lagos.				</p> 
+				<p><a href="tel:0700 933 933 933">0700 933 933 933 <b>(Mon-Fri from 9am-5pm)</b></a> - <a href="/cdn-cgi/l/email-protection#1b7874756f7a786f5b6b727c7c626d7e686f35787476"><span class="__cf_email__" data-cfemail="24474b4a5045475064544d43435d524157500a474b49">[email&#160;protected]</span></a></p>
+				<p class="copy">© 2016 - 2020 PiggyTech Global Limited - RC 1405222</p>
+			</div>
+
+		</div>
+	</footer>
+	<!--<script src="https://www.piggyvest.com/sitestatics/js/jquery-3.2.1.min.js"></script> -->
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.piggyvest.com/sitestatics/js/jquery.min.js" type="8a8f26be28d512cc8fe70ead-text/javascript"></script> 
+	<script src="https://www.piggyvest.com/sitestatics/js/jquery.livequery_new_compress.js" type="8a8f26be28d512cc8fe70ead-text/javascript"></script>
+	<script src="https://www.piggyvest.com/sitestatics/js/jquery-ui-output.min.js" type="8a8f26be28d512cc8fe70ead-text/javascript"></script>
+	<script src="https://www.piggyvest.com/sitestatics/js/main_v1.js" type="8a8f26be28d512cc8fe70ead-text/javascript"></script>
+	<script type="8a8f26be28d512cc8fe70ead-text/javascript">
+				function generate(val){
+			var text = "";
+			var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+			
+			for( var i=0; i < val; i++ )
+				text += possible.charAt(Math.floor(Math.random() * possible.length));
+			return text;
+		}
+	</script><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="8a8f26be28d512cc8fe70ead-|49" defer=""></script></body>
+
+</html>
