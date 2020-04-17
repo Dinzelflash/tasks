@@ -1,0 +1,196 @@
+
+     .home-container{
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+        width: 1170px;
+        box-sizing: border-box;
+        font-family: Hind,sans-serif;
+        background-color: #fafafa;
+    }
+    
+    .row{
+        margin-right: -15px;
+        margin-left: -15px;
+        font-family: Hind,sans-serif;
+    
+    }
+    
+    body{
+        background: black;
+    }
+    
+    .content-wrapper{
+        background: #fafafa;
+        position: relative;
+        border-radius: 40px;
+    
+    }
+    
+    p {
+        font-size: 28px;
+        font-weight: 400;
+        font-family: Hind, sans-serif;
+        color: #a6a7aa;
+        line-height: 1.4;
+        margin-bottom: 15px;
+      }
+    
+      h1{
+        font-weight: 700;
+        font-family: Hind, sans-serif;
+        color: #515769;
+        line-height: 1.4;
+        margin: 0 0 15px;
+        font-size: 70px;
+      }
+    
+      .home-left-row{
+        width: 50%;
+        float: left;
+        position: relative;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
+    
+      }
+
+    .home-right-row{
+        width: 50%;
+        float: right;
+        position: relative;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
+        height: 220px;
+    }
+
+    .img-responsive{
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        display: block;
+        height: auto;
+        width: 65%;
+        padding-bottom: 10px;
+    }
+
+    .bio-container h2{
+        font-size: 40px;
+        font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif;
+        align-items: center;
+    }
+
+    .bio-container p{
+        font-size: 15px;
+        color: black;
+        font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+    }
+
+    .bio-left-row{
+        width: 47%;
+        float: left;
+        position: relative;
+        min-height: 1px;
+        background: #a6a7aa;
+        border-radius: 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-style: solid;
+        border-top-color: cornsilk;
+        border-bottom-color: cornsilk;
+        border-left-color: cornsilk;
+        border-right-color: cornsilk;
+    }
+
+    .bio-right-row{
+        width: 40%;
+        float: right;
+        position: relative;
+        min-height: 1px;
+        padding-right: 15px;
+        padding-left: 15px;
+        padding-top: 0px;
+        background: #a6a7aa;
+        border-radius: 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-bottom: 3px;
+        border-style: solid;
+        border-top-color: cornsilk;
+        border-bottom-color: cornsilk;
+        border-left-color: cornsilk;
+        border-right-color: cornsilk;
+        
+        
+
+    }
+
+    .bio-container{
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+        width: 1170px;
+        box-sizing: border-box;
+        font-family: Hind,sans-serif;
+        background-color: #fafafa;
+    }
+    
+    .header h1{
+         display: flex;
+         flex-direction: column;
+         font-size: 40px;
+         align-items: center;
+         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+         color: black;
+    }
+
+    .header p{
+        display: flex;
+        flex-direction: column;
+        font-size: 40px;
+        align-items: center;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: black;
+        font-size: 30px;
+        font-style: italic;
+   }
+
+   .contact-container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1170px;
+    box-sizing: border-box;
+    font-family: Hind,sans-serif;
+    background-color: #fafafa;
+   }
+
+   .contact-left-row{
+    width: 47%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+   
+   .form{
+        padding: 170px;
+        color: white;
+        width: 50%;
+   }
+
+   @media screen and (max-width: 601px){
+
+}
+  
