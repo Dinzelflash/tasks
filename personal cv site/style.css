@@ -1,5 +1,5 @@
-
-     .home-container{
+    
+    .home-container{
         padding-right: 15px;
         padding-left: 15px;
         margin-right: auto;
@@ -127,9 +127,6 @@
         border-bottom-color: cornsilk;
         border-left-color: cornsilk;
         border-right-color: cornsilk;
-        
-        
-
     }
 
     .bio-container{
@@ -182,12 +179,100 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 40px;
    }
    
-   .form{
-        padding: 170px;
-        color: white;
-        width: 50%;
+   .contact-right-row{
+    width: 40%;
+    float: right;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 0px;
+    background: #a6a7aa;
+    border-radius: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 3px;
+    border-style: solid;
+    border-top-color: cornsilk;
+    border-bottom-color: cornsilk;
+    border-left-color: cornsilk;
+    border-right-color: cornsilk;
    }
+
+   .form{
+        color: white;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        
+   }
+
+   .contact-left-row h1{
+       font-size: 40px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       color: cornflowerblue;
+   }
+
+   button{
+    padding: 10px 5px;
+    margin-top: 10px;
+    background-color: rgb(65, 83, 115);
+    border-radius: 0px 10px 0px 8px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    border: none;
+    width: 10%;
+    color: beige;
+    font-weight: 700;
+    font-family: sans-serif;
+   }
+
+   .navigation_wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 38px; 
+} 
+
+.navigation_wrapper > .right-side > div{
+    margin-right: 20px;
+    font-size: 0.9em;
+} 
+
+.right-side{
+    display: flex;
+}
+
+.nav-link-wrapper{
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+
+.nav-link-wrapper a {
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s; 
+}
+
+.nav-link-wrapper:hover {
+    border-bottom: 1px solid black;
+}
+
+.nav-link-wrapper a:hover {
+    color: black;
+}
+
+.active-nav-link {
+    border-bottom: 1px solid black;
+}
+
+.active-nav-link a {
+    color: black !important;
+}
+ 
 
   
