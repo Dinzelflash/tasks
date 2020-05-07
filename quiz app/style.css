@@ -99,7 +99,6 @@ h3 {
    .container, .btn{
     display: inline-block;
     width: 100%;
-     margin: auto;
      overflow: hidden;
    }  
 }
