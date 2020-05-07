@@ -47,7 +47,7 @@
     font-size: 2rem;
 }
 
-.next-btn{
+#next-btn{
     padding: 1.5rem;
     background-color: #55a5eb;
     color: white;
@@ -55,11 +55,23 @@
     width: 10%;
     font-size: 1.5rem;
     text-align: center;
-    margin-left: 40rem;
-
+    margin-left: 35rem;
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
-    transform: translateY(-0.1rem);
-    transition: transform 150ms;
-    
 }
+
+/* progress bar */
+
+#progressBar{
+    width: 7rem;
+    height: 7rem;
+    border: 0.3rem solid #56a5eb;
+    margin-top: 1.5rem;
+    border-radius: 50%;
+}
+
+#progressBarFull {
+    height: 6.5rem;
+    background-color: #56a5eb;
+    width: 0%;
+    border-radius: 50%;
+  }
