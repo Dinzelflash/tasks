@@ -79,7 +79,7 @@
 @media (max-width:640px){
         #next-btn{
         display: inline-block;
-        width: 100%;
+        width: 25%;
         margin: auto;
         overflow: hidden;
         }  
