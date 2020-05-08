@@ -109,12 +109,12 @@ li{
     transform:none;
 }
 
-@media screen and (max-width:600px){
+@media screen and (max-width:64px){
    .container{
     
     width: 100%;
      overflow: scroll;
-     padding-top: 20rem;
+     padding-top: 25rem;
    }  
 }
 
