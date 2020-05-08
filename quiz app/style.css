@@ -97,8 +97,8 @@ h3 {
 
 @media screen and (max-device-width:640px){
    .container, .btn{
-    
     width: 100%;
-     overflow: hidden;
+     overflow: scroll;
+     padding-top: 10rem;
    }  
 }
