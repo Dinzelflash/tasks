@@ -1,5 +1,5 @@
 :root{
-    background-color: #ecf5ff;
+    background-color: #c9a0dc;
     font-size: 62.5%;
 }
 
@@ -21,7 +21,7 @@ h4{
 
 h1 {
     font-size: 5.4rem;
-    color:#56a5eb;
+    color:#351596;
     margin-bottom: 5rem;
 }
 
@@ -41,6 +41,20 @@ h3 {
     font-weight: 500;
 }
 
+p{
+    font-size: 2.8rem;
+    font-weight: 500;
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+    color:#351596;
+}
+
+li{
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    color:white;
+}
 /*UTILITIES*/
 
 
@@ -75,16 +89,16 @@ h3 {
     padding: 1rem 0;
     width: 20rem;
     text-align: center;
-    border: 0.1rem solid #55a5eb;
+    border: 0.1rem solid #351596;
     margin-bottom: 1rem;
     text-decoration: none;
     background-color: white;
-    color: #55a5eb;
+    color: #351596;
 }
 
 .btn:hover{
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(83, 80, 110, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
 }
@@ -100,7 +114,10 @@ h3 {
     
     width: 100%;
      overflow: scroll;
-     padding-top: 10rem;
+     padding-top: 25rem;
    }  
 }
 
+
+
+ 
