@@ -97,8 +97,10 @@ h3 {
 
 @media screen and (max-device-width:640px){
    .container{
+    
     width: 100%;
      overflow: scroll;
      padding-top: 10rem;
    }  
 }
+

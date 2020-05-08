@@ -76,7 +76,7 @@
     border-radius: 50%;
   }
 
-@media (max-width:640px){
+    @media (max-width:640px){
         #next-btn{
         display: inline-block;
         width: 25%;
