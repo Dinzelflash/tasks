@@ -109,7 +109,7 @@ li{
     transform:none;
 }
 
-@media screen and (max-width:520px){
+@media screen and (max-width:600px){
    .container{
     
     width: 100%;
