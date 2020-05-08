@@ -47,7 +47,7 @@ var questions =
         question: "American Musician 'Drake' was born in what year?",
         option1: "1995",
         option2: "1989",
-        option3: "1987",
+        option3: "1986",
         Answer: 3
 
     },
